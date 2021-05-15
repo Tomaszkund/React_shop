@@ -1,4 +1,12 @@
-# React Clothes Shop Project with Redux
+# React Clothes Shop Project with Redux and Fake Store API.
+
+![](s1.PNG)
+
+### List of products in shop with several categories.
+
+![](s2.PNG)
+
+### Preview of a given product, its price and category, the possibility of adding to shopping cart.
 
 # Getting Started with Create React App
 
