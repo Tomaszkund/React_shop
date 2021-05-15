@@ -2,11 +2,11 @@
 
 ![](s1.PNG)
 
-### List of products in shop with several categories.
+### List of products in shop with categories.
 
 ![](s2.PNG)
 
-### Preview of a given product, its price and category, the possibility of adding to shopping cart.
+### Preview of a given product, price and category, adding to shopping cart.
 
 # Getting Started with Create React App
 
